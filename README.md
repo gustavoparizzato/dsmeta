@@ -1,5 +1,4 @@
-
-# Página de Jogos
+# Listagem de Vendedores
 
 Este é um projeto de gerenciamento de vendedores e vendas que utiliza Java (Spring Boot) no backend e JavaScript com React no frontend. Além disso, ele faz uso da API de mensagens do Twilio para enviar notificações SMS com informações sobre o vendedor e seu valor total de vendas.
 O Site lista os vendedores com seus respectivos valores totais vendidos no período selecionado, em caso de não alteração é filtrado como padrão o intervalo de 1 ano. Contudo, ao lado de cada vendedor é exibido o botão de enviar o SMS que represente seus dados.
